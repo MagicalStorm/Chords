@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lava.catfein.com",
-        port: 4000,
-        password: "catfein",
+        host: "lavav4.prplmoe.me",
+        port: 1118,
+        password: "prplmoe.me",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
